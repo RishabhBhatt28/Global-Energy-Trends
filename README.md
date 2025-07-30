@@ -67,7 +67,7 @@ The Power BI dashboard includes the following visuals:
 
 ## 🧾 Project Structure
 
----
+
 Global_Energy_Analysis/
 │
 ├── data/
@@ -85,4 +85,4 @@ Global_Energy_Analysis/
 │ └── Final_Report.pdf
 │
 └── README.md
----
+
